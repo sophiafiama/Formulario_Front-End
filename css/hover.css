@@ -1,0 +1,40 @@
+.bk-btn:hover {
+    color: purple;
+    border-radius: 15px;
+    font-size: 15px;
+    border-color: #f7c4c3;
+    ;
+
+}
+
+input[type="email"]:hover {
+    color: rgba(0, 0, 0, 0.616);
+    border-radius: 5px;
+    font-size: 20px;
+    border-bottom: 2px solid #f7c4c3;
+    ;
+
+}
+
+input[type="password"]:hover {
+    border-radius: 5px;
+    font-size: 20px;
+    border-bottom: 2px solid #f7c4c3;
+    border-color: #f7c4c3;
+    ;
+
+}
+
+input[type="button"]:hover {
+    background-image: radial-gradient(circle, #9fdbdd, #f7c4c3);
+    border-radius: 15px;
+    border-color: #f7c4c3;
+    font-size: 20px;
+    color: purple;
+
+}
+
+a:hover {
+    color: purple;
+    font-size: 20px;
+}

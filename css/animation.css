@@ -1,0 +1,13 @@
+@keyframes slide {
+    from {
+        margin-top: -120%;
+    }
+
+    to {}
+
+}
+
+::placeholder {
+    color: #ccc;
+}
+
